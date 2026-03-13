@@ -156,6 +156,8 @@ function greet(name: string = "Guest") {}
 
 # 9️⃣ Generics (Very Important)
 
+Generics in TypeScript allow you to write reusable, type-safe code that works with multiple data types by using a placeholder type (like T) instead of a specific type.
+
 Reusable types.
 
 ```ts
