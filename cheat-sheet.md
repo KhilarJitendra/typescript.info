@@ -278,6 +278,8 @@ type Roles = Record<string,string>
 
 # 1️⃣5️⃣ Type Assertion
 
+Type assertion allows us to manually specify the type of a value when TypeScript cannot infer it correctly.
+
 ```ts
 let value: unknown = "Hello"
 
